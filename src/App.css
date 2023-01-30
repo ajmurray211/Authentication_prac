@@ -10,7 +10,7 @@ html{
   position: absolute;
   left: 30%;
   top: 25%;
-  height: 25rem;
+  min-height: 20rem;
   width: 40rem;
 }
 
