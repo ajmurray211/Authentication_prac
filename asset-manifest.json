@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Authentication_prac/static/css/main.073c9b0a.css",
+    "main.js": "/Authentication_prac/static/js/main.afd98807.js",
+    "static/js/787.47aa0aa9.chunk.js": "/Authentication_prac/static/js/787.47aa0aa9.chunk.js",
+    "index.html": "/Authentication_prac/index.html",
+    "main.073c9b0a.css.map": "/Authentication_prac/static/css/main.073c9b0a.css.map",
+    "main.afd98807.js.map": "/Authentication_prac/static/js/main.afd98807.js.map",
+    "787.47aa0aa9.chunk.js.map": "/Authentication_prac/static/js/787.47aa0aa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.afd98807.js"
+  ]
+}
